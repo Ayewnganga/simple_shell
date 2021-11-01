@@ -7,12 +7,9 @@
 #include <string.h>
 #include <sys/wait.h>
 #include <sys/types.h>
-#include <errno.h>
-#include <stddef.h>
-#include <sys/stat.h>
-#include <signal.h>
 
 void start_loop(void);
 int call_loop(int argc, char **argv);
+char *read_line(void);
 
 #endif

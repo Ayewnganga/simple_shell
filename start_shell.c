@@ -6,9 +6,11 @@
 void start_loop(void)
 {
 	int loop_status;
+	char *line;
 
 	do {
 		printf("$ ");
+		line = read_line();
 		printf("test-shell-loop\n -> shell not yet implemented with functions");
 	} while (loop_status);
 }

@@ -11,3 +11,8 @@
 #include <stddef.h>
 #include <sys/stat.h>
 #include <signal.h>
+
+void start_loop(void);
+int call_loop(int argc, char **argv);
+
+#endif

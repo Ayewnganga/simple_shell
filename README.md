@@ -1,7 +1,4 @@
 # simple_shell
-
-<h1>OUR SIMPLE_SHELL</h1>
-
 <h2>Table of Content</h2>
 
 <h2>1 - what is shell scripting</h2>

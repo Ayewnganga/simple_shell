@@ -7,10 +7,12 @@ void start_loop(void)
 {
 	int loop_status;
 	char *line;
+	char **args;
 
 	do {
 		printf("$ ");
 		line = read_line();
+		args = lsh_split_line(line);
 		printf("test-shell-loop\n -> shell not yet implemented with functions");
 	} while (loop_status);
 }

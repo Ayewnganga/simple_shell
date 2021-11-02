@@ -11,5 +11,6 @@
 void start_loop(void);
 int call_loop(int argc, char **argv);
 char *read_line(void);
+char **lsh_split_line(char *line);
 
 #endif

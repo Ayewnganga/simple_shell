@@ -4,7 +4,8 @@
 
 <h2>Table of Content</h2>
 
-<p>1 -what is shell</p>
+<h2>1 - what is shell scripting</h2>
+<p>A shell script is a computer program designed to be run by the Unix shell, a command-line interpreter. </p>
 <p>2 -what we understand by shell scripting</p>
 <p>3 -file discription</p>
 <p>4 -examples from original Unix-shell</p>

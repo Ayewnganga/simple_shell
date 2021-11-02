@@ -10,10 +10,14 @@ void start_loop(void)
 	char **args;
 
 	do {
+		printf("shell by YourDevLebo \n");
 		printf("$ ");
 		line = read_line();
 		args = lsh_split_line(line);
-		printf("test-shell-loop\n -> shell not yet implemented with functions");
+		loop_status = lsh_execute(args);
+
+		free(line);
+		free(args);
 	} while (loop_status);
 }
 

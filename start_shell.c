@@ -30,6 +30,8 @@ void start_loop(void)
 int main(int argc, char **argv)
 {
 	start_loop();
+	(void)argc;
+	(void)argv;
 
 	return (EXIT_SUCCESS);
 }

@@ -10,8 +10,8 @@
 
 <h1>3 -how to use our shell in your computer</h1>
 <ul>
-  <li>step 1 : clone our repo (use "git clone linkHere")</li>
-  <li>step 2 : navigate to the repo</li>
+  <li>step 1 : clone our repo (use "git clone https://github.com/Ayewnganga/simple_shell.git")</li>
+  <li>step 2 : navigate to the repo using (cd simple_shell)</li>
   <li>step 3 : compile all files using ("gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh")</li>
   <li>step 3 : to run the shell type("./hsh")</li>
 </ul>
@@ -21,7 +21,7 @@
   Remember our simple shell only uses built-in function we havent implemented any of our own functions.
 </h2>
   
-<h1>5 -Some of the Commands and thier discription</h1>
+<h1>4 -Some of the Commands and thier discription</h1>
 <ul>
   <li>ls -> list directory</li>
   <li>mkdir -> creates directory</li>

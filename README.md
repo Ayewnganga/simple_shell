@@ -32,8 +32,17 @@
   <li>Control + c -> closes terminal </li>
 </ul>
 
-<h3>Author</h3>
-<a href="https://github.com/YourDevLebo/">Lebogang Modise</a>
+<h1>5 -environment used</h1> 
+<ul>
+  <li>Language : C</li>
+  <li>Code Editor: Vim</li>
+  <li>CodeStyle : betty-Linter</li>
+  <li>OS - linux</li>
+  <li>Compiler: gcc</li>
+</ul>
 
 <h2>Licence</h2>
-<p>simple_shell is open source and therefore free to download and use without permission.</p
+<p>simple_shell is open source and therefore free to download and use without permission.</p>
+
+<h3>Author:</h3>
+<a href="https://github.com/YourDevLebo/">Lebogang Modise</a>
